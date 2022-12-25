@@ -1,0 +1,12 @@
+.type1Button, .type2Button{
+    font-size: 28px;
+    font-family: Helvetica, 'TImes New Roman', sans-serif;
+}
+.type1Button{
+    background-color: black;
+    color: white;
+}
+.type2Button{
+    background-color: rgb(254, 254, 103);
+    color: black;
+}
