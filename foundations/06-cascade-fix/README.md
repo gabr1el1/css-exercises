@@ -11,7 +11,11 @@ Issues with the cascade can be the bane of their existence for many when it come
 ![desired outcome](./desired-outcome.png)
 
 ### Self Check
-- Did you make sure to not edit the HTML file?
+- Did you make sure to not edit the HTML file? 
+  ANS: Yes, I did not change it.
 - If you added selectors to the CSS, do they target a valid HTML element?
+  Yes, I used chaining classes to add specificity to some elements,
+  so the page could be displayed as it should.
+
 
 _Note: for accessibility reasons, the style in this exercise has changed. For new and old students, we propose to carry out the exercise noting how important it is to pay attention to the accessibility of the web, and we encourage more and more practices like this._
