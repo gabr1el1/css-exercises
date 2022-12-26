@@ -16,5 +16,8 @@ This will help you further practice adding classes and using class selectors, so
 
 ### Self Check
 - Does each element have a unique class name?
+  ANS: Yes, they do.
 - Did you use the grouping selector for styles that both elements share?
+  ANS: Yes, for the font-family-name and font-size.
 - Did you make separate rules for the styles unique to each element?
+  Yes, different background-color and color for each class.
