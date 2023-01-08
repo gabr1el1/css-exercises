@@ -12,7 +12,12 @@ wide:
 
 ### Self Check
 - There is space between all items and the edge of the header (specific px amount doesn't matter here).
+  ANS: Yes, there is.
 - Logo is centered vertically and horizontally.
+  Yes it is.
 - list-items are horizontal, and are centered vertically inside the header.
+  ANS: Yes, they are.
 - left-links and right-links are pushed all the way to the left and right, and stay at the edge of the header when the page is resized.
+  ANS: Yes they are, using justify-content: space-between.
 - Your solution does not use floats, inline-block, or absolute positioning.
+  ANS: No, only flex-box.
