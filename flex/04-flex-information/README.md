@@ -11,9 +11,16 @@ For this one you will need to edit the HTML a little bit too. We can't be making
 ### Self Check
 
 - All items are centered on the page (horizontally, not vertically).
+  ANS: Yes, they are.
 - The title is centered on the page.
+  ANS: Yes, it is.
 - There is 32px between the title and the 'items.'
+  ANS: Yes, a margin.
 - There is 52px between each item.
+  ANS: Yes, I used gap.
 - The items are arranged horizontally on the page.
+  ANS: Yes, I used flexbox.
 - The items are only 200px wide and the text wraps.
+  ANS: Yes, using max-width.
 - The item text is centered.
+  ANS: Yes, using text-align.
