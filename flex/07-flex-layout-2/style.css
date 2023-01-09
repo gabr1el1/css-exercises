@@ -46,7 +46,7 @@ body {
   display: flex;
   flex-wrap: wrap;
   padding: 32px;
-  gap: 32px;
+  gap: 16px;
 }
 .card{
   flex: 1;
