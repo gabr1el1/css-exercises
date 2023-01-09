@@ -10,9 +10,15 @@ Depending on how you approach this one, you might need to revisit the `flex-shri
 
 ### Self Check
 
-- The blue icon is aligned to the left.
+- The blue icon is aligned to the left. 
+  DONE
 - There is equal space on either side of the icon (the gaps between the icon and the edge of the card, and the icon and the text, are the same).
+  DONE with gap.
 - There is padding around the edge of the modal.
+  DONE with padding in the modal.
 - The header, text, and buttons are aligned with each other.
+  DONE putting it in a div content and giving flex and flex-direction column.
 - The header is bold and a slightly larger text-size than the text.
+  DONE
 - The close button is vertically aligned with the header, and aligned in the top-right of the card.
+  DONE putting it after the div content.
