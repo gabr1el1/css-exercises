@@ -16,4 +16,39 @@ button {
   font-size: 18px;
   padding: 16px 24px;
   text-align: center;
+  transition: all 0.5s ease;
+
+  /*
+  animation: 1s shrink 1 forwards;
+  */
 }
+
+button:hover {
+  transform: scale(1.5);
+}
+
+/*
+button:hover {
+  animation: 1s grow 1 forwards;
+}
+
+@keyframes grow {
+  from {
+    transform: scale(1);
+  }
+
+  to {
+    transform: scale(1.5);
+  }
+}
+
+@keyframes shrink {
+  from {
+    transform: scale(1.5);
+  }
+
+  to {
+    transform: scale(1);
+  }
+}
+*/
